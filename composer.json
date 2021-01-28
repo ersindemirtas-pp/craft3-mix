@@ -27,7 +27,7 @@
         {
             "name": "Ersin Demirtas",
             "email": "ersin.demirtas@pod-point.com"
-        },
+        }
     ],
     "require": {
         "craftcms/cms": "~3.0.0-beta.20"
