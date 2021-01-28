@@ -1,5 +1,5 @@
 {
-    "name": "venveo/craft3-mix",
+    "name": "ersindemirtas-pp/craft3-mix",
     "description": "Helper plugin for rev-manifest in Craft templates",
     "type": "craft-plugin",
     "version": "1.0.3",
@@ -23,7 +23,11 @@
         {
             "name": "Ransom Roberson",
             "email": "ransom@venveo.com"
-        }
+        },
+        {
+            "name": "Ersin Demirtas",
+            "email": "ersin.demirtas@pod-point.com"
+        },
     ],
     "require": {
         "craftcms/cms": "~3.0.0-beta.20"
